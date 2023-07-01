@@ -1,0 +1,31 @@
+.counter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .counter-wrapper {
+    text-align: center;
+  }
+  
+  .counter-title {
+    margin-bottom: 20px;
+  }
+  
+  .counter-content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .counter-button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .counter-number {
+    font-size: 48px;
+    margin: 0;
+  }
+  
